@@ -1,11 +1,11 @@
-# FizzBuzz Zero: Mastering FizzBuzz Game without Human Knowledge
+# FizzBuzz Zero: Mastering the Game of FizzBuzz without Human Knowledge
 
 ![zero](https://user-images.githubusercontent.com/32036527/39819369-3e9bf334-53de-11e8-8f6d-245e76badc63.png)
 
-> A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. --[*D.Silver*](https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/)  
+> *A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains.* --[*D.Silver*](https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/)  
 
 This is implementation for FizzBuzz using AlphaZero method.  
-日本語の解説は[こちら](https://qiita.com/)  
+日本語の解説は[こちら](https://qiita.com/ymg_aq/items/d276357823f5b2ce46c5)  
 
 ## Requirement
 
