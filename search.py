@@ -27,7 +27,8 @@ class Node(object):
         self.visit_cnt = np.full(FEATURE_SIZE, 0)    # sum of visit count
         # next node id after answer
         self.next_id = np.full(FEATURE_SIZE, -1)
-        self.next_hash = np.full(FEATURE_SIZE, -1)   # next node hash
+        # next node hash
+        self.next_hash = np.full(FEATURE_SIZE, -1, dtype=np.int64)
         self.evaluated = np.full(FEATURE_SIZE, False)
 
         # initialize node information
